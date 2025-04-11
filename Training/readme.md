@@ -45,9 +45,3 @@ git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
 git push -u origin main
 ```
 
-> Replace `YOUR_USERNAME` and `YOUR_REPO` with your GitHub username and repository name.
-```
-
----
-
-You can copy and paste this directly into your `README.md`. Let me know if you also want a sample screenshot embed code!
