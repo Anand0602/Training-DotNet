@@ -24,6 +24,10 @@ namespace Training.Controllers
         {
             return View();
         }
+        public IActionResult LogOut()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
