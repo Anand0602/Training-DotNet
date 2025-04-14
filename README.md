@@ -6,12 +6,29 @@ A beginner .Net Developer's repository having basic  .NET training projects.
 
 ## 📁 Project Structure
 
-- **Training.sln**: The main solution file that contains all individual projects in the folder.
-- **Training/**: Directory containing various sub-projects, each having specific learning objectives.
-- **.gitignore**: Specifies  files to ignore.
-- **.gitattributes**: Defines attributes for each path.
+
+```
+Training-DotNet/
+├── Training.sln
+├── .gitignore
+├── .gitattributes
+└── Training/
+    ├── Project1/
+    │   ├── Controllers/
+    │   ├── Models/
+    │   ├── Views/
+    │   └── Program.cs
+    ...
+
+```
+
+- **Training.sln**: The main solution file that aggregates all individual projects.
+- **Training/**: Directory containing various sub-projects, each targeting specific learning objectives.
+- **.gitignore**: Specifies intentionally untracked files to ignore.
+- **.gitattributes**: Defines attributes per path.
 
 ---
+
 
 ## 🛠️ Technologies Used
 
