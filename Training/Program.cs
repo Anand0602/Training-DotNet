@@ -21,3 +21,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+// This is a simple ASP.NET Core MVC application that serves as a starting point for building web applications.

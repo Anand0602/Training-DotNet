@@ -1,16 +1,21 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
     ViewData["Title"] = "Logout";
-   
-    
-     
 }
 
-<h1>@ViewData["Title"]</h1>
-<div>
-    <h1>
-        Welcome to LogOut Page !!
-    </h1>
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <i class="fas fa-sign-out-alt fa-5x text-danger mb-4"></i>
+        <h1 class="display-5 text-danger">@ViewData["Title"]</h1>
+        <p class="lead">Are you sure you want to log out?</p>
+        <div class="mt-4">
+            <form method="post" action="/Home/Logout">
+                <button type="submit" class="btn btn-danger btn-lg me-3">
+                    <i class="fas fa-check-circle"></i> Yes, Logout
+                </button>
+                <a href="/Home/Index" class="btn btn-secondary btn-lg">
+                    <i class="fas fa-times-circle"></i> Cancel
+                </a>
+            </form>
+        </div>
+    </div>
 </div>
