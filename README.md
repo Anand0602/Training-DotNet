@@ -1,7 +1,6 @@
 # Training-DotNet
 
-A comprehensive repository encompassing a series of .NET training projects.  
-This collection is designed to reinforce foundational and advanced concepts in C#, ASP.NET Core MVC, Entity Framework Core, RESTful APIs, and modern web development practices.
+A beginner .Net Developer's repository having basic  .NET training projects.  
 
 ---
 
