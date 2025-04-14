@@ -60,8 +60,8 @@ A beginner .Net Developer's repository having basic  .NET training projects.
 
 ## 📌 Notes
 
-- This repository is a work in progress, with continuous additions and refinements.
-- Each sub-project is self-contained, focusing on specific aspects of .NET development.
+- This repository is a work in progress, with continuous additions and improvements.
+- Each sub-project is within itself, focusing on specific aspects of .NET development.
 - Contributions, suggestions, and feedback are welcome to improve the learning experience.
 
 ---
