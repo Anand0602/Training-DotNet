@@ -14,10 +14,10 @@ Training-DotNet/
 ├── .gitattributes
 └── Training/
     ├── Project1/
-    │   ├── Controllers/
-    │   ├── Models/
-    │   ├── Views/
-    │   └── Program.cs
+       ├── Controllers/
+       ├── Models/
+       ├── Views/
+       └── Program.cs
     ...
 
 ```
